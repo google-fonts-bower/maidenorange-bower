@@ -1,0 +1,17 @@
+{
+    "name": "maidenorange-googlefont",
+    "license": "APACHE2",
+    "authors": [
+        "Astigmatic"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/maidenorange-bower.git"
+    },
+    "description": "Maiden Orange font",
+    "keywords": [
+        "font",
+        "DISPLAY"
+    ]
+}
